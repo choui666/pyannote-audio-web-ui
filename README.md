@@ -34,8 +34,10 @@
 [点我试用](https://item.taobao.com/item.htm?ft=t&id=992595941810)
 ###  完整版下载
 完整版本包含python环境，ffmpeg, 大模型，总共7G，纯本地运行软件
-- [百度云盘](https://pan.baidu.com/s/1s8NtDJNt-pqsqnozsHnoMw?pwd=s9vd)
-- [夸克网盘](https://pan.quark.cn/s/95f68188c1d2?pwd=CAji)
+- [百度云盘](https://pan.baidu.com/s/1FCivTMXm_eu1jAXgYwgFsQ?pwd=4u4k)
+- [夸克网盘](https://pan.quark.cn/s/6d8b91e514cc?pwd=32HT)
+
+只需下载其中 ``pyannote-audio.zip``
   
 ###  token获取
 软件为了防止恶意倒卖，设计了token加密，购买后可终身使用，并提供全程技术支持，确保能正确运行
